@@ -20,6 +20,7 @@ pip install pandas
 pip install matplotlib
 pip install requests
 pip install nba-api
+pip install seaborn
 
 # Save dependencies to requirements file.
 pip freeze > ./Setup/requirements.txt
